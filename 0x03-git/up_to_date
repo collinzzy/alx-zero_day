@@ -1,0 +1,4 @@
+mkdir up_to_date
+git add .
+git push origin main
+commit before pushing git commit -m How to be up to date in git 
